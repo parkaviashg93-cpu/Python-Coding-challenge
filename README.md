@@ -1,6 +1,6 @@
 Python Coding Challenge
 
-This repository contains 8 Python coding challenge projects created to practice Python programming, problem solving, and basic data analysis. Each project demonstrates different Python concepts such as data structures, conditional statements, loops, and data analysis using libraries like NumPy and Pandas.
+This repository contains  Python coding challenge projects created to practice Python programming, problem solving, and basic data analysis. Each project demonstrates different Python concepts such as data structures, conditional statements, loops, and data analysis using libraries like NumPy and Pandas.
 
 Projects
 1. Feedback Analyzer
