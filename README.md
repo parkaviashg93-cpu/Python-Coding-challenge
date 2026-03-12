@@ -1,179 +1,124 @@
-Python Coding Challenge
-
+**Python Coding Challenge**
 This repository contains  Python coding challenge projects created to practice Python programming, problem solving, and basic data analysis. Each project demonstrates different Python concepts such as data structures, conditional statements, loops, and data analysis using libraries like NumPy and Pandas.
 
-Projects
-1. Feedback Analyzer
-
+**Projects**
+**1. Feedback Analyzer**
 A Python program that analyzes customer feedback and classifies it into categories.
 
-Features
-
+**Features**
 Analyze feedback text
-
 Identify positive and negative feedback
-
 Display feedback summary
 
-Technologies Used
-
+**Technologies Used**
 Python
+String Methods & slicing
 
-String operations
-
-Lists
-
-2. Retail Inventory Manager
-
+**2. Retail Inventory Manager**
 A Python-based system used to manage product inventory.
 
-Features
-
+**Features**
 Add new products
-
 Update product stock
-
 Remove products
-
 Display inventory details
 
-Technologies Used
-
+**Technologies Used**
 Python
+Tupple Immutable vs Mutable list creation
 
-Lists
-
-Dictionaries
-
-3. Contact Directory
-
+**3. Contact Directory**
 A Python application to store and manage contact information.
 
-Features
-
+**Features**
 Add new contacts
-
 Search contacts
-
 Update contact details
-
 Delete contacts
 
-Technologies Used
-
+**Technologies Used**
 Python
+List Method & Slicing
 
-Dictionary data structure
-
-4. Student Grades & Hobbies Tracker
-
+**4. Student Grades & Hobbies Tracker**
 A Python program to manage student information including grades and hobbies.
 
-Features
-
+**Features**
 Store student grades
-
 Record student hobbies
-
 Display student details
 
-Technologies Used
-
+**Technologies Used**
 Python
-
-Lists
-
+set
+Frozen Set
 Dictionaries
 
-5. BMI Calculator
-
+**5. BMI Calculator**
 A simple Python program used to calculate Body Mass Index (BMI).
 
-Features
-
+**Features**
 Accept height and weight input
-
 Calculate BMI value
-
 Display BMI category
 
-Technologies Used
-
+**Technologies Used**
 Python
-
+Operators
 Conditional statements
 
-6. Shopping Cart Billing System
-
+**6. Shopping Cart Billing System**
 A Python program that simulates a shopping cart system.
 
-Features
-
+**Features**
 Add items to cart
-
 Calculate total bill
-
 Display purchase summary
 
-Technologies Used
-
+**Technologies Used**
 Python
+Functions(while loop,else,break,continue)
 
-Lists
-
-Functions
-
-7. NumPy Arrays & Operations
-
+**7. NumPy Arrays & Operations**
 A project demonstrating numerical operations using NumPy.
 
-Features
-
+**Features**
 Create NumPy arrays
-
 Perform array operations
-
 Apply mathematical functions
 
-Technologies Used
-
+**Technologies Used**
 Python
-
 NumPy
 
-8. Pandas Basics
+**8. Pandas Basics**
+**Project Name: Sales Data Analysis**
+**Project Overview**
+This project analyzes a sales transaction dataset using Python and data analysis libraries. The goal of the project is to clean the dataset, perform statistical analysis, visualize sales patterns, and generate insights from the data.
 
-A data analysis project using Pandas.
+**Dataset Description**
+The dataset contains **2500 sales transaction records** with information about customers, products, sales amounts, and profits.
 
-Features
+**Key Insights**
+- Many transactions have **Sales_Amount close to 0**.
+- Sales distribution is **highly skewed**, with a few high-value transactions.
+- Some transactions show **negative profit**, indicating loss-making orders.
+- Sales performance varies across **cities and customer segments**.
 
+**Features**
 DataFrame creation
-
 Data filtering and grouping
-
 Basic data visualization
 
-Technologies Used
+**Technologies Used**
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Jupyter Notebook
 
-Python
-
-Pandas
-
-Matplotlib
-
-Technologies Used
-
-Python
-
-NumPy
-
-Pandas
-
-Matplotlib
-
-Jupyter Notebook
-
-Repository Structure
+**Repository Structure**
 Python-Coding-Challenge
 │
 ├── Feedback Analyzer
@@ -185,6 +130,5 @@ Python-Coding-Challenge
 ├── NumPy Arrays & Operations
 └── Pandas Basics
 
-Purpose
-
+**Purpose**
 This repository was created as part of Python coding challenge practice to improve programming skills and gain hands-on experience with Python and data analysis.
