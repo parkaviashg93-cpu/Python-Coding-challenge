@@ -25,9 +25,9 @@ ________________________________________
 ________________________________________
 Project Structure
 Feedback-Analyzer/
-│
-├── Feedback Analyzer-py-cc.ipynb   # Main project notebook
-└── README.md                       # Project documentation
+
+ Feedback Analyzer-py-cc.ipynb   # Main project notebook
+ README.md                       # Project documentation
 ________________________________________
  How It Works
 The program performs the following steps:
