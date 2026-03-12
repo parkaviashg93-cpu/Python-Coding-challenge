@@ -5,6 +5,7 @@ This repository contains  Python coding challenge projects created to practice P
 **Projects**
 
 **1. Feedback Analyzer**
+
 A Python program that analyzes customer feedback and classifies it into categories.
 
 **Features**
