@@ -16,6 +16,7 @@ Identify positive and negative feedback
 Display feedback summary
 
 **Technologies Used**
+
 Python
 
 String Methods & slicing
@@ -95,6 +96,7 @@ Calculate BMI value
 Display BMI category
 
 **Technologies Used**
+
 Python
 
 Operators
@@ -114,6 +116,7 @@ Calculate total bill
 Display purchase summary
 
 **Technologies Used**
+
 Python
 
 Functions(while loop,else,break,continue)
